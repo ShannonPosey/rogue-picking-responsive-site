@@ -149,11 +149,13 @@ header nav ul li a{
 	color: #333;
 	font-size: 1em;
 	line-height: 1.3125;
+	padding: 0;
 }
 
 .address {
 	font-size: 1em;
 	line-height: 1.5;
+	padding: 0;
 }
 
 /*The widths are in a percentage!*/
